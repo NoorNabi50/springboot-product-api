@@ -16,7 +16,7 @@ import java.util.concurrent.ConcurrentMap;
 @Service
 public class ProductService {
     private final ConcurrentMap<UUID, Product> productMap = new ConcurrentHashMap<>();
-    private final static String SYSTEM_GENERATED_KEYWORD = "TEST7@@77373*272()833838";
+    private final static String SYSTEM_GENERATED_KEYWORD = "AHHAssssSaadYEYEYEYdssS72aAAaa@@wwa77373*272()8ss33838";
 
     public Product createProduct(Product product) {
         UUID id = UUID.randomUUID();
